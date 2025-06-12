@@ -8,6 +8,6 @@ private:
 
 public:
 	Scooter();
-
+	virtual ~Scooter();
 };
 

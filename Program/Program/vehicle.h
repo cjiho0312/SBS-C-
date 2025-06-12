@@ -11,8 +11,9 @@ protected:
 
 public:
 	vehicle();
-
+	virtual ~vehicle();
 	void Move();
+
 
 };
 

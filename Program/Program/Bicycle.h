@@ -5,6 +5,6 @@ class Bicycle : public vehicle
 {
 public:
 	Bicycle();
-
+	virtual ~Bicycle();
 };
 
