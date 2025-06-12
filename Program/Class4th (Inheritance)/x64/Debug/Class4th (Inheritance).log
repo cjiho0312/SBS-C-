@@ -1,0 +1,9 @@
+﻿  Bicycle.cpp
+C:\Users\Administrator\Desktop\SBS-C-\Program\Program\Bicycle.cpp(10,11): error C2600: 'Bicycle::~Bicycle': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+  Boat.cpp
+C:\Users\Administrator\Desktop\SBS-C-\Program\Program\Boat.cpp(11,8): error C2600: 'Boat::~Boat': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+  Scooter.cpp
+C:\Users\Administrator\Desktop\SBS-C-\Program\Program\Scooter.cpp(11,11): error C2600: 'Scooter::~Scooter': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+  vehicle.cpp
+C:\Users\Administrator\Desktop\SBS-C-\Program\Program\vehicle.cpp(13,11): error C2600: 'vehicle::~vehicle': 컴파일러 생성 특수 멤버 함수를 정의할 수 없습니다. 먼저 클래스에 선언해야 합니다.
+  코드를 생성하고 있습니다...
