@@ -1,10 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Bandage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Bandage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\expendables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\expendables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Lantern.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Lantern.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +34,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lantern.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Lantern.h",
+              "RelativeDocumentMoniker": "Program\\Lantern.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Lantern.h",
+              "RelativeToolTip": "Program\\Lantern.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T05:17:47.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bandage.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Bandage.h",
+              "RelativeDocumentMoniker": "Program\\Bandage.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Bandage.h",
+              "RelativeToolTip": "Program\\Bandage.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T05:16:01.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Potion.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Potion.h",
+              "RelativeDocumentMoniker": "Program\\Potion.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Potion.h",
+              "RelativeToolTip": "Program\\Potion.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T04:46:23.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "expendables.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.cpp",
+              "RelativeDocumentMoniker": "Program\\expendables.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.cpp",
+              "RelativeToolTip": "Program\\expendables.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-13T04:49:12.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "expendables.h",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.h",
+              "RelativeDocumentMoniker": "Program\\expendables.h",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.h",
+              "RelativeToolTip": "Program\\expendables.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-06-13T04:45:47.16Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp",
               "RelativeDocumentMoniker": "Program\\Program.cpp",
-              "ToolTip": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp",
               "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFMAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-12T06:36:50.621Z",
               "EditorCaption": ""

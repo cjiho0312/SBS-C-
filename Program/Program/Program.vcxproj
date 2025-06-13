@@ -19,7 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Bandage.cpp" />
+    <ClCompile Include="expendables.cpp" />
+    <ClCompile Include="Lantern.cpp" />
+    <ClCompile Include="Potion.cpp" />
     <ClCompile Include="Program.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Bandage.h" />
+    <ClInclude Include="expendables.h" />
+    <ClInclude Include="Lantern.h" />
+    <ClInclude Include="Potion.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
