@@ -1,30 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Program.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{E8501799-2558-4281-AEF7-1A0759E42BA5}|Homework\\Homework.vcxproj|C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Homework\\Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E8501799-2558-4281-AEF7-1A0759E42BA5}|Homework\\Homework.vcxproj|solutionrelative:Homework\\Homework.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Bandage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Bandage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{03E9E763-CD17-4531-98D2-8DB633404F42}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class3th (Constructor \u0026 Destructor)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03E9E763-CD17-4531-98D2-8DB633404F42}|Class3th (Constructor \u0026 Destructor)\\Class3th (Constructor \u0026 Destructor).vcxproj|solutionrelative:Class3th (Constructor \u0026 Destructor)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Potion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{49BD3950-D3B6-4307-9A27-27EFB4E53325}|Class1th (stream)\\Class1th (stream).vcxproj|C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class1th (stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{49BD3950-D3B6-4307-9A27-27EFB4E53325}|Class1th (stream)\\Class1th (stream).vcxproj|solutionrelative:Class1th (stream)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\expendables.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\expendables.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Lantern.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{9B9BAC4D-3D16-4B74-B6E3-E3644D3A5040}|Program\\Program.vcxproj|solutionrelative:Program\\Lantern.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4A74CE20-A8FA-41DB-824B-D5E0821DA079}|Class2th (Class)\\Class2th (Class).vcxproj|C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class2th (Class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4A74CE20-A8FA-41DB-824B-D5E0821DA079}|Class2th (Class)\\Class2th (Class).vcxproj|solutionrelative:Class2th (Class)\\source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +26,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Lantern.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Lantern.h",
-              "RelativeDocumentMoniker": "Program\\Lantern.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Lantern.h",
-              "RelativeToolTip": "Program\\Lantern.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T05:17:47.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Bandage.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Bandage.h",
-              "RelativeDocumentMoniker": "Program\\Bandage.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Bandage.h",
-              "RelativeToolTip": "Program\\Bandage.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T05:16:01.338Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Potion.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Potion.h",
-              "RelativeDocumentMoniker": "Program\\Potion.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Potion.h",
-              "RelativeToolTip": "Program\\Potion.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T04:46:23.901Z",
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class1th (stream)\\source.cpp",
+              "RelativeDocumentMoniker": "Class1th (stream)\\source.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class1th (stream)\\source.cpp",
+              "RelativeToolTip": "Class1th (stream)\\source.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAACQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-14T12:43:59.951Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "expendables.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.cpp",
-              "RelativeDocumentMoniker": "Program\\expendables.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.cpp",
-              "RelativeToolTip": "Program\\expendables.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class2th (Class)\\source.cpp",
+              "RelativeDocumentMoniker": "Class2th (Class)\\source.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class2th (Class)\\source.cpp",
+              "RelativeToolTip": "Class2th (Class)\\source.cpp",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAowHMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-13T04:49:12.908Z",
+              "WhenOpened": "2025-06-14T12:48:21.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "expendables.h",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.h",
-              "RelativeDocumentMoniker": "Program\\expendables.h",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\expendables.h",
-              "RelativeToolTip": "Program\\expendables.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-06-13T04:45:47.16Z",
+              "DocumentIndex": 1,
+              "Title": "source.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
+              "RelativeDocumentMoniker": "Class3th (Constructor \u0026 Destructor)\\source.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Class3th (Constructor \u0026 Destructor)\\source.cpp",
+              "RelativeToolTip": "Class3th (Constructor \u0026 Destructor)\\source.cpp",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAAAEUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-15T04:32:56.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cpp",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp",
-              "RelativeDocumentMoniker": "Program\\Program.cpp",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Program\\Program.cpp",
-              "RelativeToolTip": "Program\\Program.cpp",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAwwFIAAAAAAAAAAAAAAA==",
+              "Title": "Homework.cpp",
+              "DocumentMoniker": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Homework\\Homework.cpp",
+              "RelativeDocumentMoniker": "Homework\\Homework.cpp",
+              "ToolTip": "C:\\Users\\Legion\\Desktop\\SBS-c\u002B\u002Bclass\\Program\\Homework\\Homework.cpp",
+              "RelativeToolTip": "Homework\\Homework.cpp",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAUwJoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-06-12T06:36:50.621Z",
+              "WhenOpened": "2025-06-14T15:51:26.168Z",
               "EditorCaption": ""
             }
           ]
