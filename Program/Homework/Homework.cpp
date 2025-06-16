@@ -122,7 +122,6 @@ int main()
 #pragma endregion
 */
 
-
 /*
 class Player
 {
@@ -167,14 +166,144 @@ int main()
 }
 */
 
+class Number // 단항 연산자
+{
+private:
+    int x;
+public:
+    Number(int v = 0) : x(v) {} // 멤버 이니셜리스트 사용
+ 
+    Number operator-() const  // 부호 반전
+    {
+        cout << "- 호출 중..." << endl;
+        return Number(-x);
+    }
+
+    Number operator++()  // 전위 증가
+    {
+        cout << "전위 ++ 호출 중..." << endl;
+        ++x;
+        return Number(x);
+    }
+
+    Number operator--()    // 전위 감소
+    {
+        cout << "전위 -- 호출 중..." << endl;
+        --x;
+        return Number(x);
+    }
+
+    void Print() const // 출력
+    {
+        cout << "x의 값 : " << x << endl;
+
+    }
+};
+
+class Number2 // 이항 연산자
+{
+protected:
+    int x;
+    int y;
+
+public:
+    Number2(int x, int y)
+    {
+        this->x = x;
+        this->y = y;
+    }
+
+    void Position() const
+    {
+        cout << "x의 값 : " << x << ", y의 값 : " << y << endl;
+    }
+
+    const Number2& operator + (const Number2& number2) // 덧셈 실행
+    {
+        cout << "point1D + point2D 의 좌표값" << endl;
+
+        Number2 clone(this->x + number2.x, this->y + number2.y);
+        return clone;
+    }
+
+    const Number2& operator - (const Number2& number2) // 뺄셈 실행
+    {
+        cout << "point1D - point2D 의 좌표값" << endl;
+
+        Number2 clone(this->x - number2.x, this->y - number2.y);
+        return clone;
+    }
+
+    const Number2& operator * (const Number2& number2) // 곱셈 실행
+    {
+        cout << "point1D * point2D 의 좌표값" << endl;
+
+        Number2 clone(this->x * number2.x, this->y * number2.y);
+        return clone;
+    }
+
+    void print()
+    {
+        cout << "(" << x << ", " << y << ")" << endl;
+    }
+};
 
 int main()
 {
-#pragma region 단항 연산자, 이항 연산자
-    // 단항 연산자.. 다양한 연산자 예제
+#pragma region 단항 연산자
+    // 피연산자 1개만 필요로 하는 연산자이며, 변수 하나에 대해 작동합니다.
 
+    cout << "-----단항 연산자-----\n" << endl;
+
+    Number num(5);
+
+    cout << "원래 값" << endl;
+    num.Print();
+
+    cout << "\n단항 -" << endl;
+    (-num).Print();
+
+    cout << "\n전위 증가" << endl;
+    (++num).Print();
+
+    cout << "\n전위 감소" << endl;
+    (--num).Print();
+
+    cout << endl;
+
+    // 대표적인 단항 연산자로는
+    // + : 양수기호 / - : 음수로 전환 / ++ 1 : 증가(전위/후위)
+    // -- 1 : 감소(전위/후위) / ! : 논리 부정 / ~ : 비트 반전
 #pragma endregion
 
+#pragma region 이항 연산자
+    // 피연산자 2개를 필요로 하며, 두 개의 값을 비교하거나 연산합니다.
+
+    cout << "-----이항 연산자-----\n" << endl;
+    
+    Number2 point1D(3, 4);
+    Number2 point2D(1, 2);
+
+    cout << "point1D의 원래 값 : (3, 4)" << endl << "point2D의 원래 값 : (1, 2)\n" << endl;
+
+    Number2 direction = point1D + point2D;
+    direction.Position();
+
+    direction = point1D - point2D;
+    direction.Position();
+
+    direction = point1D * point2D;
+    direction.Position();
 
 
+    // 대표적인 이항 연산자로는
+    // 산술 : +, -, *, /, %
+    // 관계 : ==, !=, <, >, <=, >=
+    // 논리 : &&, ||
+    // 대입 : =, +=, -=, *=, /=
+    // 비트 : &, |
+    // 기타 : [], ->
+#pragma endregion
+
+    return 0;
 }
