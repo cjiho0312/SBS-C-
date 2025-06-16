@@ -122,6 +122,8 @@ int main()
 #pragma endregion
 */
 
+
+/*
 class Player
 {
 private:
@@ -162,4 +164,17 @@ int main()
 
     return 0;
 #pragma endregion
+}
+*/
+
+
+int main()
+{
+#pragma region 단항 연산자, 이항 연산자
+    // 단항 연산자.. 다양한 연산자 예제
+
+#pragma endregion
+
+
+
 }

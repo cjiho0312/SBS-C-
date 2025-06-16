@@ -18,30 +18,30 @@
     <ClCompile Include="Program.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="expendables.cpp">
+    <ClCompile Include="Paint.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Potion.cpp">
+    <ClCompile Include="Pencil.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Bandage.cpp">
+    <ClCompile Include="Brush.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="Lantern.cpp">
+    <ClCompile Include="Vector2D.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="expendables.h">
+    <ClInclude Include="Paint.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Potion.h">
+    <ClInclude Include="Pencil.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Bandage.h">
+    <ClInclude Include="Brush.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
-    <ClInclude Include="Lantern.h">
+    <ClInclude Include="Vector2D.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>

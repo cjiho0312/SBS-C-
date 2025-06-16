@@ -127,7 +127,7 @@
     <ClCompile Include="..\Program\Boat.cpp" />
     <ClCompile Include="..\Program\Scooter.cpp" />
     <ClCompile Include="..\Program\vehicle.cpp" />
-    <ClCompile Include="Class4th (Inheritance).cpp" />
+    <ClCompile Include="source.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\Program\Bicycle.h" />
