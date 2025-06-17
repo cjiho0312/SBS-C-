@@ -1,5 +1,5 @@
 ﻿  Homework.cpp
-C:\Users\Legion\Desktop\SBS-c++class\Program\Homework\Homework.cpp(226,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
-C:\Users\Legion\Desktop\SBS-c++class\Program\Homework\Homework.cpp(242,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
-C:\Users\Legion\Desktop\SBS-c++class\Program\Homework\Homework.cpp(234,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
-  Homework.vcxproj -> C:\Users\Legion\Desktop\SBS-c++class\Program\x64\Debug\Homework.exe
+C:\Users\Administrator\Desktop\SBS-c++class\Program\Homework\Homework.cpp(237,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\SBS-c++class\Program\Homework\Homework.cpp(245,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+C:\Users\Administrator\Desktop\SBS-c++class\Program\Homework\Homework.cpp(229,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
+  Homework.vcxproj -> C:\Users\Administrator\Desktop\SBS-c++class\Program\x64\Debug\Homework.exe

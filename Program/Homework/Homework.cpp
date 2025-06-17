@@ -170,8 +170,15 @@ class Number // 단항 연산자
 {
 private:
     int x;
+
 public:
     Number(int v = 0) : x(v) {} // 멤버 이니셜리스트 사용
+
+    void Print() const // 출력
+    {
+        cout << "x의 값 : " << x << endl;
+
+    }
  
     Number operator-() const  // 부호 반전
     {
@@ -193,11 +200,6 @@ public:
         return Number(x);
     }
 
-    void Print() const // 출력
-    {
-        cout << "x의 값 : " << x << endl;
-
-    }
 };
 
 class Number2 // 이항 연산자

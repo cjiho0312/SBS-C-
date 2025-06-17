@@ -1,5 +1,2 @@
 ﻿  Program.cpp
-  Vector2D.cpp
-  코드를 생성하고 있습니다...
-C:\Users\Administrator\Desktop\SBS-c++class\Program\Program\Vector2D.h(25,1): warning C4172: 지역 변수 또는 임시 : clone의 주소를 반환하는 중
   Program.vcxproj -> C:\Users\Administrator\Desktop\SBS-c++class\Program\x64\Debug\Program.exe
