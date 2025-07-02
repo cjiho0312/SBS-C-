@@ -307,5 +307,10 @@ int main()
     // 기타 : [], ->
 #pragma endregion
 
+#pragma region move, r value, l value
+
+#pragma endregion
+
+
     return 0;
 }
