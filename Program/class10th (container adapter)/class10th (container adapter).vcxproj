@@ -24,6 +24,7 @@
     <ProjectGuid>{944aee7b-a7db-490b-8143-b4fda6f83013}</ProjectGuid>
     <RootNamespace>class10thcontaineradapter</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+    <ProjectName>Class10th (container adapter)</ProjectName>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">

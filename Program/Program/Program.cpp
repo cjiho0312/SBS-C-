@@ -1,63 +1,61 @@
 ﻿#include <iostream>
-#include "Packet.h"
-#include "Resource.h"
+#include <unordered_set>
 
 using namespace std;
 
 
 int main()
 {
-#pragma region 메모리 소유권
-	/*
-	int* ptr2;
+#pragma region 연관 컨테이너
 
+#pragma region unordered set
+
+	/*
+	std::unordered_set<const char*> unordered_set;
+
+	unordered_set.max_load_factor(2.0f); // 부하율 한계 설정 (기본은 1.0)
+
+	unordered_set.insert("Sword");
+	unordered_set.insert("Potion");
+	unordered_set.insert("Shirt");
+	unordered_set.insert("Gun");
+	unordered_set.insert("Hat");
+	unordered_set.insert("Cap");
+	unordered_set.insert("Clothes");
+	unordered_set.insert("Shoes");
+	unordered_set.insert("Belt");
+
+	cout << "Load Factor : " << unordered_set.load_factor() << endl; // load factor : 부하율
+	cout << "Bucket Count : " << unordered_set.bucket_count() << endl; // 기본은 8, 부하율 넘기면 64로 변경됨
+
+	if (unordered_set.find("Gun") != unordered_set.end()) // Gun이라는 Key가 존재하면 실행
 	{
-		int* ptr1 = new int; // 동적 할당
+		cout << "Found it" << endl;
+	}
+	else // 없으면 실행
+	{
+		cout << "Not key found" << endl;
+	}
 
-		ptr2 = ptr1; // 메모리를 ptr2에게 넘겨줌
-	} // ptr1 삭제됨
-	
-	*ptr2 = 100;
+	unordered_set.erase("Hat"); // Key 지우기
 
-	delete ptr2;
-	*/
-#pragma endregion
-
-#pragma region Smart Pointer
-	
-#pragma region unique_pointer
-	// 특정한 객체를 하나의 스마트 포인터만 가리킬 수 있도록 되어있는 포인터입니다.
-
-	/*
-	unique_ptr<Packet> ptr = make_unique<Packet>(); // 동적 할당
-
-	ptr->Receive();
-
-	unique_ptr<Packet> reference = std::move(ptr); // 이동시키기 위해 move 사용
-	
-	ptr->Receive();
+	for (const char * element : unordered_set) // 내부에 있는 key 출력
+	{
+		cout << element << endl;
+	}
 	*/
 
 #pragma endregion
 
-#pragma region shared_pointer
-	// 하나의 자원 객체를 여러 포인터 객체가 가리킬 수 있으며,
-	// 모든 포인터 객체가 자원 객체를 필요로 하지 않을 때
-	// 자원 객체를 해제하도록 설계되어있는 포인터입니다.
+#pragma region set
 
-	shared_ptr<Resource> oil = make_shared<Resource>();
-	shared_ptr<Resource> mineral = make_shared<Resource>();
 
-	oil->Share(*mineral);
-	mineral->Share(*oil);
-
-	cout << "oil의 reference count : " << oil.use_count() << endl;
-	cout << "mineral의 reference count : " << mineral.use_count() << endl;
 
 #pragma endregion
 
 
 #pragma endregion
+
 
 
 	return 0;

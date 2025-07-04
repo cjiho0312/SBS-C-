@@ -23,7 +23,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class7th (template)", "Clas
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class9th (lcontainer)", "Class9th (lcontainer)\Class9th (lcontainer).vcxproj", "{9D5D2644-E1E9-4748-8413-0CA72C2D046B}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "class10th (container adapter)", "class10th (container adapter)\class10th (container adapter).vcxproj", "{944AEE7B-A7DB-490B-8143-B4FDA6F83013}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class10th (container adapter)", "class10th (container adapter)\class10th (container adapter).vcxproj", "{944AEE7B-A7DB-490B-8143-B4FDA6F83013}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class8th (smart pointer)", "Class8th (smart pointer)\Class8th (smart pointer).vcxproj", "{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -121,6 +123,14 @@ Global
 		{944AEE7B-A7DB-490B-8143-B4FDA6F83013}.Release|x64.Build.0 = Release|x64
 		{944AEE7B-A7DB-490B-8143-B4FDA6F83013}.Release|x86.ActiveCfg = Release|Win32
 		{944AEE7B-A7DB-490B-8143-B4FDA6F83013}.Release|x86.Build.0 = Release|Win32
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Debug|x64.ActiveCfg = Debug|x64
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Debug|x64.Build.0 = Debug|x64
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Debug|x86.ActiveCfg = Debug|Win32
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Debug|x86.Build.0 = Debug|Win32
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Release|x64.ActiveCfg = Release|x64
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Release|x64.Build.0 = Release|x64
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Release|x86.ActiveCfg = Release|Win32
+		{C447EFEF-BBBE-428F-B350-F0A4426E9DB1}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -55,6 +55,26 @@ int main()
 
 #pragma endregion
 
+#pragma region priority queue container
+	// 가장 큰 수를 뽑을 때, 시간 복잡도 면에서도 효율이 좋음 (log n)
+
+	/*
+	std::priority_queue<int> a;
+
+	a.push(20);
+	a.push(10);
+	a.push(9);
+	a.push(31);
+
+	while (a.empty() == false)
+	{
+		cout << "top : " << a.top() << endl;
+		a.pop();
+	}
+
+	*/
+
+#pragma endregion
 
 #pragma endregion
 

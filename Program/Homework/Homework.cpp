@@ -311,6 +311,11 @@ int main()
 
 #pragma endregion
 
+#pragma region 제곱탐사, 이중해싱
+
+#pragma endregion
+
+
 
     return 0;
 }
